@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Data_science"
-permalink: /data
+permalink: /Data_science
 ---
