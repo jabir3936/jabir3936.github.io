@@ -7,7 +7,7 @@ The following page shows a summary of the coding projects completed. This is not
 ## 1. Data science
 The data science currently has topics regarding the basics of tidyverse, data acquisition,data wrangling and visualization. The R programming language is used in this section for the data science project and can be accessed by this link [Data science topics](https://tuhhstartupengineers.github.io/ds_basics-jabir3936/b3bf70ec59795f3a77e358694aacb4b33d2574ee/index.html).
 
-### Jekyll Themes
+## 2. Machine learning
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jabir3936/jabir3936.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
