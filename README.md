@@ -5,7 +5,7 @@ The following page shows a summary of the coding projects completed. This is not
 
 # Projects
 ## 1. Data science
--The data science currently has topics regarding the basics of tidyverse, data acquisition,data wrangling and visualization. The R programming language is used in this section for the data science project and can be accessed by this link [Data science topics](https://tuhhstartupengineers.github.io/ds_basics-jabir3936/b3bf70ec59795f3a77e358694aacb4b33d2574ee/index.html).
+- The data science currently has topics regarding the basics of tidyverse, data acquisition,data wrangling and visualization. The R programming language is used in this section for the data science project and can be accessed by this link [Data science topics](https://tuhhstartupengineers.github.io/ds_basics-jabir3936/b3bf70ec59795f3a77e358694aacb4b33d2574ee/index.html).
 
 ## 2. Machine learning
 
