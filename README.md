@@ -1,4 +1,4 @@
-## Jabir Abdi 
+ 
 
 The following page shows a summary of the coding projects completed. This is not a complete list as  it will be continously updated.The github userpage can be found with this [link](https://github.com/jabir3936).
 
